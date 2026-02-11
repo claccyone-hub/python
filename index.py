@@ -1,0 +1,2 @@
+varible="amal"
+print(varible)
